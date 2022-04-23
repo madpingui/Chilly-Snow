@@ -1,4 +1,4 @@
-# Chilly-Snow
+# Chilly Snow
 Game in which you are a skier who is going down a mountain of snow and you have to dodge the trees (obstacles).
 Clicking makes you change direction so you zig zag down.<br />
 [Tutorial](https://youtu.be/PBgdRFrJ3Uk)
